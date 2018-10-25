@@ -22,16 +22,16 @@ when (id=='chinese')
   # @title = "Chinese Food"
 when (id=='italian')
   erb :'../views/italy'
-    @title = "Italian Food"
+    # @title = "Italian Food"
 when (id=='turkish')
   erb :'../views/turkey'
-    @title = "Turkish Food"
+    # @title = "Turkish Food"
 when (id=='mexican')
   erb :'../views/mexico'
-    @title = "Mexican Food"
+    # @title = "Mexican Food"
 when (id=='polish')
   erb :'../views/poland'
-    @title = "Polish Food"
+    # @title = "Polish Food"
 
 end
 end
